@@ -95,6 +95,7 @@ npm run dev
 
 Deployed via [Railway](https://railway.app/) — add your PostgreSQL and JWT secret as environment variables.
 Here's the live (Deployed) link : imf-gadget-api-development.up.railway.app
+Postman Documentation : https://documenter.getpostman.com/view/43789104/2sB2cUBP8k#66e9999a-78d6-4563-9572-cb1b3de2b1ac
 
 > This message will not self-destruct. Good luck, agent! 😎
 
