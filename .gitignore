@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# dotenv
+.env
+
+# DB (if using SQLite locally for any reason)
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage (if using testing tools)
+coverage/
+
+# Build folders (if applicable)
+dist/
+build/
+
+# Postman files (optional, unless you want to include them)
+*.postman_collection.json
